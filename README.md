@@ -3,7 +3,7 @@ A tool to fastly get all javascript sources/files
 # Installation
 
 ```
-https://github.com/XJOKZVO/Lesjs.git
+git clone https://github.com/XJOKZVO/Lesjs.git
 ```
 
 # Options:
